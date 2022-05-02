@@ -47,7 +47,7 @@ Project is: _in progress_.
 
 
 ## Contact
- feel free to contact me [@abe_ansah](https://twitter.com/abe_ansah?t=FTzmC7WH6iuH_eFZbY_99g&s=08)
+ feel free to contact me [@abe_ansah](https://www.linkedin.com/in/joseph-835977a5/)
 
 
 <!-- Optional -->
