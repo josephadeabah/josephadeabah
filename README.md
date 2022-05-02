@@ -39,6 +39,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 - PostgreSQL
 - Git and Github
 - Jira
+- Bootstrap - version 4 & 5
 
 
 ## Project Status
