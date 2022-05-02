@@ -37,6 +37,8 @@ A software engineer who is passionate about creating technology to elevate peopl
 - CSS
 - MYSQL
 - PostgreSQL
+- Git and Github
+- Jira
 
 
 ## Project Status
