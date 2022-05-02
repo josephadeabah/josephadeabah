@@ -52,7 +52,7 @@ Project is: _in progress_.
 
 
 ## Fun Fact: ...
-⚡ The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. (Seymour Cray)
+⚡ The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague. (Edsger Dijkstra)
 
 ## Contact
  feel free to contact me [@abe_ansah](https://www.linkedin.com/in/joseph-835977a5/)
