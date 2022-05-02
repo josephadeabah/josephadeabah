@@ -6,7 +6,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 # Project Names and Live Demos
 > Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos.
-> But for now...enjoy this Live demo that shows nothing haha!! [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
