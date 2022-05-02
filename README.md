@@ -38,13 +38,11 @@
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_.
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by jumia.com, tonaton.com, jiiji.com...
 - Many thanks to...
 
 
