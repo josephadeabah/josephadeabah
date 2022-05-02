@@ -1,5 +1,5 @@
 # About Me
-![Example screenshot](https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
 # Project Names and Live Demos
 > Outline a brief description of your project.
