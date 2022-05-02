@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="
-https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="100" width="100" /></a>
+https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="100" width="auto"/></a>
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -30,15 +30,9 @@ Project is created with:
 * Ipsum version: 2.33
 * Ament library version: 999
 	
-## Setup
-To run this project, install it locally using npm:
+## What I'm Looking forward to;
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -47,3 +41,6 @@ $ npm start
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```
+
+
