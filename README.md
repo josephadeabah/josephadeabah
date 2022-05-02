@@ -1,8 +1,11 @@
 # About Me
+Hi, I'm Joseph 👋🏾 
+A software engineer who is passionate about creating technology to elevate people, and building community. I enjoy working with ReactJS, (JavaScript, APIs + Markup). I build the software interface you see on your computer screen.
+
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
 # Project Names and Live Demos
-> Keep an eye on the project I'm working on collaboratively. Shall be listing them here with live demos
+> Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
@@ -10,23 +13,18 @@
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
+* [Fun Fact](#fun-facts)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-
 ```
 - 🔭 I’m currently working on peer-to-peer community marketplace...
-- 🌱 I’m currently learning Vue JS and Tailwindcss...
+- 🌱 I’m currently learning Vue JS, GraphQL and Tailwindcss...
 - 👯 I’m looking to contribute to open source project...
 - 🤔 I’m looking for help with how I can quickly adapt myself to open source project ...
 - 💬 Ask me about anything that bothers you about the stack I've already got adapted to. i'll help in any possible way I can to help ease stress...
-- ⚡ Fun fact: ...
 ```
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -45,6 +43,9 @@ Project is: _in progress_.
 - This project was inspired by jumia.com, tonaton.com, jiiji.com...
 - Many thanks to...
 
+
+## ⚡ Fun Fact: ...
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. (Seymour Cray)
 
 ## Contact
  feel free to contact me [@abe_ansah](https://www.linkedin.com/in/joseph-835977a5/)
