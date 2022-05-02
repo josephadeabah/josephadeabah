@@ -30,9 +30,13 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- React JS 
+- Javascript 
+- Node JS
+- HTML
+- CSS
+- MYSQL
+- PostgreSQL
 
 
 ## Project Status
