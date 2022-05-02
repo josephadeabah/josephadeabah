@@ -5,8 +5,8 @@ A software engineer who is passionate about creating technology to elevate peopl
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
 # Project Names and Live Demos
-> Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos.
+> But for now...enjoy this Live demo that shows nothing haha!! [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
