@@ -13,7 +13,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
-* [Fun Fact](#fun-facts)
+* [Fun Fact](#fun-fact)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -44,8 +44,8 @@ Project is: _in progress_.
 - Many thanks to...
 
 
-## ⚡ Fun Fact: ...
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. (Seymour Cray)
+## Fun Fact: ...
+⚡ The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. (Seymour Cray)
 
 ## Contact
  feel free to contact me [@abe_ansah](https://www.linkedin.com/in/joseph-835977a5/)
