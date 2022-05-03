@@ -1,6 +1,6 @@
 # About Me
 Hi, I'm Joseph 👋🏾 
-A software engineer who is passionate about creating technology to elevate people, and building community. I enjoy building the software interface you see on your computer screen.
+A software engineer who is passionate about creating technology to elevate people, and building community. I enjoy building software at the frontend.
 
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
