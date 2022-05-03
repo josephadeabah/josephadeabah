@@ -30,7 +30,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 
 ## Technologies Used
-- React JS 
+- React JS                              
 - Javascript 
 - Node JS
 - HTML
@@ -40,6 +40,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 - Git and Github
 - Jira
 - Bootstrap - version 4 & 5
+- RESTful API
 
 
 ## Project Status
