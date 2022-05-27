@@ -44,7 +44,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 
 ## Project Status
-Project is: _in progress_.
+Project is:[Marketplace](https://staging.d3o0f92tyu6euq.amplifyapp.com/)
 
 
 ## Acknowledgements
