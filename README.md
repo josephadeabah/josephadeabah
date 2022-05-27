@@ -7,6 +7,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 # Project Names and Live Demos
 > Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos.
 > <!-- If you have the project hosted somewhere, include the link here. -->
+> Ecommerce/Marketplace: [Marketplace](https://staging.d3o0f92tyu6euq.amplifyapp.com/)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -44,7 +45,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 
 ## Project Status
-Project is:[Marketplace](https://staging.d3o0f92tyu6euq.amplifyapp.com/)
+Project is:_in progress_
 
 
 ## Acknowledgements
