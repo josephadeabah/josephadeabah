@@ -48,9 +48,39 @@ A software engineer who is passionate about creating technology to elevate peopl
 Project is:_in progress_
 
 
-## Acknowledgements
-- This project was inspired by jumia.com, tonaton.com, jiiji.com...
-- Many thanks to...
+## My Stats
+---
+ <details>
+ <summary>:zap: GitHub Stats</summary>
+
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=josephadeabah&count_private=true&theme=cobalt2&showicons=true)]()
+  </details>
+ <details>
+ <summary>:zap: Language Stats</summary>
+
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=josephadeabah&langs_count=5&theme=cobalt2)]()
+ </details>
+
+ <details>
+ <summary>:zap: Streaks</summary>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josephadeabah&theme=dark)](https://git.io/streak-stats)
+
+</details>
+
+ <details>
+    <summary>:zap: Activity Graph</summary>
+
+[![Abe Ansah github activity graph](https://activity-graph.herokuapp.com/graph?username=josephadeabah&theme=dracula)](https://github.com/al-husayn/github-readme-activity-graph)
+</details>
+
+<details>
+    <summary>:zap: Trophies</summary>
+
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=josephadeabah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
 
 
 ## Fun Fact: ...
