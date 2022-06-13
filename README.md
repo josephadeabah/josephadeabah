@@ -7,7 +7,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 # Project Names and Live Demos
 > Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos.
 > <!-- If you have the project hosted somewhere, include the link here. -->
-> Ecommerce/Marketplace: [Community Marketplace](marketplace-rural.amalitech.org)
+> Ecommerce: [Community Marketplace](marketplace-rural.amalitech.org)
 
 ## Table of Contents
 * [General Info](#general-information)
