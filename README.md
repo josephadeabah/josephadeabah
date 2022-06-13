@@ -5,7 +5,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
 # Project Names and Live Demos
-> Keep an eye on the project I'm working on collaboratively. Shall be listing some here with live demos.
+> Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
 > Ecommerce: [Community Marketplace](marketplace-rural.amalitech.org)
 
