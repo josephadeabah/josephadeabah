@@ -8,6 +8,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
 > Ecommerce: [Community Marketplace](https://marketplace-rural.amalitech.org)
+> My Personal Blog and shopping website: [My Blog](https://abeansah.vercel.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
