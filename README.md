@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm Joseph 👋🏾 
+Hi, I'm Joseph [Alias Abe Ansah] 👋🏾 
 A software engineer who is passionate about creating technology to elevate people, and building community. I enjoy building software at the frontend.
 
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
