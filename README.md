@@ -5,10 +5,11 @@ A software engineer who is passionate about creating technology to elevate peopl
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
 # Project Names and Live Demos
+> My Personal Blog and shopping website: [My Blog](https://abeansah.vercel.app/)
+
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
 > Ecommerce: [Community Marketplace](https://marketplace-rural.amalitech.org) <br> 
-> My Personal Blog and shopping website: [My Blog](https://abeansah.vercel.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
