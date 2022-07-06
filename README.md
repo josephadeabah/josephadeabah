@@ -10,7 +10,6 @@ A software engineer who is passionate about creating technology to elevate peopl
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
 > Ecommerce: [Community Marketplace](https://marketplace-rural.amalitech.org) <br> 
-> [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## Table of Contents
 * [General Info](#general-information)
