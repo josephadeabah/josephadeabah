@@ -24,7 +24,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 ## General Information
 ```
 - 🔭 I’m currently working on peer-to-peer community marketplace...
-- 🌱 I’m currently learning Vue JS, Storyblok CMS and Tailwindcss...
+- 🌱 I’m currently learning Tailwindcss...
 - 👯 I’m looking to contribute to open source project...
 - 🤔 I’m looking for help with how I can quickly adapt myself to open source project ...
 - 💬 Ask me about anything...
@@ -33,9 +33,11 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 
 ## Technologies Used
-- React JS                              
+- React JS  
+- Vue JS                            
 - Javascript 
 - Node JS
+-  Storyblok CMS
 - HTML
 - CSS
 - MYSQL
