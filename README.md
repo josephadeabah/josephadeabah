@@ -38,6 +38,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 - Javascript 
 - Node JS
 -  Storyblok CMS
+- Shopware CMS [Headless]
 - HTML
 - CSS
 - MYSQL
