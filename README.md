@@ -5,7 +5,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 ![Example screenshot](https://pbs.twimg.com/profile_banners/2289852416/1574342990/1080x360)
 
 # Project Names and Live Demos
-> My Personal Blog: [My Blog](https://abeansah.vercel.app/)
+> My Personal Blog: [My Blog](https://abeansah.vercel.app/)  <br> 
 > Designed Resume Generator for Amalitech - In Progress: [Resume Generator](https://warm-kleicha-bd3b96.netlify.app/)
 
 
