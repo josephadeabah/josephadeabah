@@ -6,6 +6,8 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 # Project Names and Live Demos
 > My Personal Blog: [My Blog](https://abeansah.vercel.app/)
+> Designed Resume Generator for Amalitech - In Progress: [Resume Generator](https://warm-kleicha-bd3b96.netlify.app/)
+
 
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
@@ -23,17 +25,17 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 ## General Information
 ```
-- 🔭 I’m currently working on peer-to-peer community marketplace...
-- 🌱 I’m currently learning Tailwindcss...
+- 🔭 I’m currently working on Ecommerce capstone project as Upscaling for Nexum.com ...
+- 🌱 I’m currently learning Data Analytics...
 - 👯 I’m looking to contribute to open source project...
-- 🤔 I’m looking for help with how I can quickly adapt myself to open source project ...
 - 💬 Ask me about anything...
 ```
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- React JS  
+- React JS 
+- Next JS 
 - Vue JS                            
 - Javascript 
 - Node JS
