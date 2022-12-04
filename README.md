@@ -11,7 +11,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
 > Ecommerce: [Community Marketplace](https://marketplace.amalitech-dev.net/) <br> 
-> Freelance Platform: [Freelance Platform](https://www.thefairwork.com/) <br> 
+> TheFairwork: [Freelance Platform](https://www.thefairwork.com/) <br> 
 
 
 ## Table of Contents
