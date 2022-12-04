@@ -8,10 +8,11 @@ A software engineer who is passionate about creating technology to elevate peopl
 > My Personal Blog: [My Blog](https://abeansah.vercel.app/)  <br> 
 > Designed Resume Generator for Amalitech - In Progress: [Resume Generator](https://warm-kleicha-bd3b96.netlify.app/)
 
-
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
 > Ecommerce: [Community Marketplace](https://marketplace.amalitech-dev.net/) <br> 
+> Freelance Platform: (https://www.thefairwork.com/) <br> 
+
 
 ## Table of Contents
 * [General Info](#general-information)
