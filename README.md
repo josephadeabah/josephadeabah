@@ -10,6 +10,7 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
+> Web Shop: [eCommerce](http://storyblok.amalitech-dev.net/) <br> 
 > Ecommerce: [Community Marketplace](https://marketplace.amalitech-dev.net/) <br> 
 > TheFairwork: [Freelance Platform](https://www.thefairwork.com/) <br> 
 
