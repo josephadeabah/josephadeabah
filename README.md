@@ -6,7 +6,8 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 # Project Names and Live Demos
 > My Personal Blog: [My Blog](https://abeansah.vercel.app/)  <br> 
-> Designed Resume Generator for Amalitech - In Progress: [Resume Generator](https://warm-kleicha-bd3b96.netlify.app/)
+> Designed Resume Generator for Amalitech - In Progress: [Resume Generator](https://warm-kleicha-bd3b96.netlify.app/) <br> 
+> Website Internationalization with Next JS i18n Demo: [Multilanguage Demo Site](https://multilanguages-nu.vercel.app/))
 
 > Some project I've worked on collaboratively:
 > <!-- If you have the project hosted somewhere, include the link here. -->
