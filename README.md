@@ -28,9 +28,9 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 ## General Information
 ```
-- 🔭 I’m currently working on Ecommerce capstone project as Upscaling for Nexum.com ...
+- 🔭 I’m currently working on a Project for Client ...
 - 🌱 I’m currently learning Data Analytics...
-- 👯 I’m looking to contribute to open source project...
+- 👯 I’m open to contributing to any project that interests me...
 - 💬 Ask me about anything...
 ```
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -38,7 +38,9 @@ A software engineer who is passionate about creating technology to elevate peopl
 
 ## Technologies Used
 - React JS 
-- Next JS 
+- Next JS
+- Nest JS
+- GraphQL
 - Vue JS                            
 - Javascript 
 - Node JS
